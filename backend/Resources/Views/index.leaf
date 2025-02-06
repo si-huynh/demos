@@ -1,0 +1,6 @@
+#extend("base"):
+    #export("content"):
+        <h1>Assignment</h1>
+    #endexport
+#endextend
+
