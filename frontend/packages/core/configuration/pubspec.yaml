@@ -1,0 +1,35 @@
+name: configuration
+description: "A package that provides configuration management and initialization settings for the Flutter application."
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  # Internal Packages
+  common:
+    path: ../common
+  data:
+    path: ../data
+  network:
+    path: ../network
+  routing:
+    path: ../routing
+  # End of Internal Packages
+
+  flutter:
+    sdk: flutter
+  hydrated_bloc: ^10.0.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  build_runner: ^2.4.14
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  injectable_generator: ^2.6.2
+
+flutter:
+  uses-material-design: true

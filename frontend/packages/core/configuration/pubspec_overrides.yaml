@@ -1,0 +1,22 @@
+# melos_managed_dependency_overrides: blocs,common,data,design,domain,localization,models,network,onboarding,routing
+dependency_overrides:
+  blocs:
+    path: ../blocs
+  common:
+    path: ../common
+  data:
+    path: ../data
+  design:
+    path: ../design
+  domain:
+    path: ../domain
+  localization:
+    path: ../localization
+  models:
+    path: ../models
+  network:
+    path: ../network
+  onboarding:
+    path: ../../features/onboarding
+  routing:
+    path: ../routing

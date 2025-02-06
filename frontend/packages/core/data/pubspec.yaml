@@ -1,0 +1,32 @@
+name: data
+description: "Data package containing data layer utilities and services"
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  # Internal packages
+  common:
+    path: ../common
+  # models:
+  #   path: ../models
+  # End of Internal packages
+  dartz: ^0.10.1
+  device_info_plus: ^11.1.1
+  floor: ^1.5.0
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^9.2.4
+  json_annotation: ^4.9.0
+  path: ^1.9.0
+
+dev_dependencies:
+  build_runner: ^2.4.14
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  json_serializable: ^6.7.1
+  mocktail: ^1.0.4

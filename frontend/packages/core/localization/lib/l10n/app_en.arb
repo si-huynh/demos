@@ -1,0 +1,109 @@
+{
+  "@@author": "Si Huynh",
+  "@@last_modified": "2025-02-05 10:00:00",
+  "@@locale": "en",
+  "welcomeToOnboardingWorkspace": "Welcome to Onboarding Workspace",
+  "@welcomeToOnboardingWorkspace": {
+    "description": "Text shown on dashboard page"
+  },
+  "haveAccount": "Already have an account?",
+  "@haveAccount": {
+    "description": "Text for have account link"
+  },
+  "createNewAccount": "Create new account",
+  "@createNewAccount": {
+    "description": "Text for create new account link"
+  },
+  "notHaveAccount": "Don't have an account?",
+  "@notHaveAccount": {
+    "description": "Text for don't have account link"
+  },
+  "signUp": "Sign up",
+  "@signUp": {
+    "description": "Text for sign up button"
+  },
+  "signIn": "Sign in",
+  "@signIn": {
+    "description": "Text for sign in button"
+  },
+  "firstName": "First name",
+  "@firstName": {
+    "description": "Text for first name label"
+  },
+  "firstNameError": "First name is required",
+  "@firstNameError": {
+    "description": "Text for first name error"
+  },
+  "lastName": "Last name",
+  "@lastName": {
+    "description": "Text for last name label"
+  },
+  "lastNameError": "Last name is required",
+  "@lastNameError": {
+    "description": "Text for last name error"
+  },
+  "firstNameHint": "Enter your first name",
+  "@firstNameHint": {
+    "description": "Text for first name hint"
+  },
+  "lastNameHint": "Enter your last name",
+  "@lastNameHint": {
+    "description": "Text for last name hint"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Text for email label"
+  },
+  "emailHint": "Enter your email",
+  "@emailHint": {
+    "description": "Text for email hint"
+  },
+  "emailError": "Email is required",
+  "@emailError": {
+    "description": "Text for email error"
+  },
+  "emailInvalid": "Email is invalid",
+  "@emailInvalid": {
+    "description": "Text for email invalid"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Text for password label"
+  },
+  "passwordHint": "Enter your password",
+  "@passwordHint": {
+    "description": "Text for password hint"
+  },
+  "passwordError": "Password is required",
+  "@passwordError": {
+    "description": "Text for password error"
+  },
+  "confirmPassword": "Confirm password",
+  "@confirmPassword": {
+    "description": "Text for confirm password label"
+  },
+  "confirmPasswordHint": "Enter your confirm password",
+  "@confirmPasswordHint": {
+    "description": "Text for confirm password hint"
+  },
+  "confirmPasswordError": "Confirm password is required",
+  "@confirmPasswordError": {
+    "description": "Text for confirm password error"
+  },
+  "confirmPasswordNotMatch": "Confirm password not match",
+  "@confirmPasswordNotMatch": {
+    "description": "Text for confirm password not match"
+  },
+  "forgotPassword": "Forgot password?",
+  "@forgotPassword": {
+    "description": "Text for forgot password link"
+  },
+  "loginSuccessful": "Login successful",
+  "@loginSuccessful": {
+    "description": "Text for login successful"
+  },
+  "registerSuccessful": "Register successful",
+  "@registerSuccessful": {
+    "description": "Text for register successful"
+  }
+}

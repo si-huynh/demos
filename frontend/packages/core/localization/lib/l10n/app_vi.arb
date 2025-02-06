@@ -1,0 +1,109 @@
+{
+  "@@author": "Si Huynh",
+  "@@last_modified": "2025-02-05 10:00:00",
+  "@@locale": "vi",
+  "welcomeToOnboardingWorkspace": "Chào mừng đến với Onboarding Workspace",
+  "@welcomeToOnboardingWorkspace": {
+    "description": "Text shown on dashboard page"
+  },
+  "haveAccount": "Đã có tài khoản?",
+  "@haveAccount": {
+    "description": "Text for have account link"
+  },
+  "notHaveAccount": "Không có tài khoản?",
+  "@notHaveAccount": {
+    "description": "Text for not have account link"
+  },
+  "createNewAccount": "Tạo tài khoản mới",
+  "@createNewAccount": {
+    "description": "Text for create new account link"
+  },
+  "signUp": "Đăng ký",
+  "@signUp": {
+    "description": "Text for sign up button"
+  },
+  "signIn": "Đăng nhập",
+  "@signIn": {
+    "description": "Text for sign in button"
+  },
+  "firstName": "Họ",
+  "@firstName": {
+    "description": "Text for first name label"
+  },
+  "firstNameError": "Vui lòng nhập họ của bạn",
+  "@firstNameError": {
+    "description": "Text for first name error"
+  },
+  "lastName": "Tên",
+  "@lastName": {
+    "description": "Text for last name label"
+  },
+  "lastNameError": "Vui lòng nhập tên của bạn",
+  "@lastNameError": {
+    "description": "Text for last name error"
+  },
+  "firstNameHint": "Nhập họ của bạn",
+  "@firstNameHint": {
+    "description": "Text for first name hint"
+  },
+  "lastNameHint": "Nhập tên của bạn",
+  "@lastNameHint": {
+    "description": "Text for last name hint"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Text for email label"
+  },
+  "emailHint": "Nhập email của bạn",
+  "@emailHint": {
+    "description": "Text for email hint"
+  },
+  "emailError": "Email là bắt buộc",
+  "@emailError": {
+    "description": "Text for email error"
+  },
+  "emailInvalid": "Email không hợp lệ",
+  "@emailInvalid": {
+    "description": "Text for email invalid"
+  },
+  "password": "Mật khẩu",
+  "@password": {
+    "description": "Text for password label"
+  },
+  "passwordHint": "Nhập mật khẩu của bạn",
+  "@passwordHint": {
+    "description": "Text for password hint"
+  },
+  "passwordError": "Mật khẩu là bắt buộc",
+  "@passwordError": {
+    "description": "Text for password error"
+  },
+  "confirmPassword": "Xác nhận mật khẩu",
+  "@confirmPassword": {
+    "description": "Text for confirm password label"
+  },
+  "confirmPasswordHint": "Nhập xác nhận mật khẩu của bạn",
+  "@confirmPasswordHint": {
+    "description": "Text for confirm password hint"
+  },
+  "confirmPasswordError": "Xác nhận mật khẩu là bắt buộc",
+  "@confirmPasswordError": {
+    "description": "Text for confirm password error"
+  },
+  "confirmPasswordNotMatch": "Xác nhận mật khẩu không khớp",
+  "@confirmPasswordNotMatch": {
+    "description": "Text for confirm password not match"
+  },
+  "forgotPassword": "Quên mật khẩu?",
+  "@forgotPassword": {
+    "description": "Text for forgot password link"
+  },
+  "loginSuccessful": "Đăng nhập thành công",
+  "@loginSuccessful": {
+    "description": "Text for login successful"
+  },
+  "registerSuccessful": "Đăng ký thành công",
+  "@registerSuccessful": {
+    "description": "Text for register successful"
+  }
+}

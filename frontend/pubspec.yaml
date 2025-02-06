@@ -1,0 +1,27 @@
+name: frontend
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  configuration:
+    path: packages/core/configuration
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+  melos: ^6.1.0
+
+flutter:
+  uses-material-design: true
+
+global_options:
+  auto_route_generator:auto_router_generator:
+    runs_before:
+      - build_resolvers:transitive_digests

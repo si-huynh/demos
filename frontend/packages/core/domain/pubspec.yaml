@@ -1,0 +1,29 @@
+name: domain
+description: "Domain package containing domain layer utilities and services"
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  # Internal packages
+  common:
+    path: ../common
+  data:
+    path: ../data
+  models:
+    path: ../models
+  network:
+    path: ../network
+  # End of Internal packages
+  dart_jsonwebtoken: ^2.14.0
+  dartz: ^0.10.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
