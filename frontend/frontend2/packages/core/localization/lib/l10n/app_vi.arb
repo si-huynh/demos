@@ -1,0 +1,25 @@
+{
+  "@@author": "Si Huynh",
+  "@@last_modified": "2025-02-05 10:00:00",
+  "@@locale": "vi",
+  "products": "Sản phẩm",
+  "@products": {
+    "description": "Title shown on products page"
+  },
+  "loading": "Đang tải...",
+  "@loading": {
+    "description": "Text shown while content is loading"
+  },
+  "out_of_stock": "Hết hàng",
+  "@out_of_stock": {
+    "description": "Text shown when product is out of stock"
+  },
+  "in_stock": "Còn hàng",
+  "@in_stock": {
+    "description": "Text shown when product is in stock"
+  },
+  "add_to_cart": "Thêm vào giỏ hàng",
+  "@add_to_cart": {
+    "description": "Text for add to cart button"
+  }
+}

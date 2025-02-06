@@ -87,6 +87,3 @@ extension User: ModelAuthenticatable {
 
 extension User: ModelSessionAuthenticatable {}
 extension User: ModelCredentialsAuthenticatable {}
-
-// curl --location --request POST 'http://localhost:8080/api/users/login' \
-// --header 'Authorization: Basic YWRtaW5AZXhhbXBsZS5jb206cGFzc3dvcmQ='

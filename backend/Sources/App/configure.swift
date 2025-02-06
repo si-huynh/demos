@@ -25,10 +25,11 @@ public func configure(_ app: Application) async throws {
 
   app.migrations.add(CreateUser())
   app.migrations.add(CreateToken())
-
+  app.migrations.add(CreateProduct())
   switch app.environment {
   case .development:
     app.migrations.add(CreateAdminUser())
+    app.migrations.add(CreateMockedProduct())
     app.logger.logLevel = .debug
   default:
     break

@@ -1,0 +1,25 @@
+{
+  "@@author": "Si Huynh",
+  "@@last_modified": "2025-02-05 10:00:00",
+  "@@locale": "en",
+  "products": "Products",
+  "@products": {
+    "description": "Title shown on products page"
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Text shown while content is loading"
+  },
+  "out_of_stock": "Out of stock",
+  "@out_of_stock": {
+    "description": "Text shown when product is out of stock"
+  },
+  "in_stock": "In stock",
+  "@in_stock": {
+    "description": "Text shown when product is in stock"
+  },
+  "add_to_cart": "Add to cart",
+  "@add_to_cart": {
+    "description": "Text for add to cart button"
+  }
+}
