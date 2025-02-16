@@ -15,6 +15,8 @@ class _SignInFormState extends State<SignInForm> {
   final _emailController = TextEditingController();
   final _passwordController = TextEditingController();
 
+  var _obscureText = true;
+
   @override
   Widget build(BuildContext context) {
     return Form(
@@ -50,6 +52,13 @@ class _SignInFormState extends State<SignInForm> {
                   return context.l10n.passwordError;
                 }
                 return null;
+              },
+              obscureText: _obscureText,
+              isObscure: true,
+              onObscureButtonPressed: () {
+                setState(() {
+                  _obscureText = !_obscureText;
+                });
               },
             ),
             const Gap(16),
