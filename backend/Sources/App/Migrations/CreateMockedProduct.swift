@@ -63,7 +63,7 @@ struct CreateMockedProduct: Migration {
                 price: 999,
                 stock: 45,
                 image:
-                    "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s24-ultra-5g-1.jpg"
+                    "https://samcenter.vn/images/thumbs/0010677_samsung-galaxy-s25-ultra-256gb.png"
             ),
             Product(
                 name: "Sony PlayStation 5",
